@@ -17,6 +17,7 @@
 
 | ID        | Name             | Email                | Role                |
 |-----------|------------------|----------------------|----------------------|
+| 201935070 | Shin-HyeonHo(신현호) | shin269@gachon.ac.kr | Data Classification  |
 | 201935075 | Yang-JunHyoung(양준형) | yangkun053@gachon.ac.kr | Sheet Recognition  |
 | 201935113 | Lee-HanSeul(이한슬) | parks4754@gmail.com  | Music Recognition  |
 | 201935125 | Jung-GyuWon(정규원) | kcc0520@gachon.ac.kr  | Sheet Recognition  |
