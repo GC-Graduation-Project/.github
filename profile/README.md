@@ -21,6 +21,7 @@
 | 201935113 | Lee-HanSeul(이한슬) | parks4754@gmail.com  | Music Recognition  |
 | 201935125 | Jung-GyuWon(정규원) | kcc0520@gachon.ac.kr  | Sheet Recognition  |
 | 202135563 | Lee-EunSeo(이은서) | silverl@gachon.ac.kr | Music Recognition  |
+| 201935145 | Choi-Junbum(최준범) | gw06052@gachon.ac.kr | Data Classification |
 
 ## Technology stack
 
