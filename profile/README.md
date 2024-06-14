@@ -19,28 +19,35 @@
 |-----------|------------------|----------------------|----------------------|
 | 201935070 | Shin-HyeonHo(신현호) | shin269@gachon.ac.kr | Data Classification  |
 | 201935075 | Yang-JunHyoung(양준형) | yangkun053@gachon.ac.kr | Sheet Recognition  |
-| 201935113 | Lee-HanSeul(이한슬) | parks4754@gmail.com  | Music Recognition  |
+| 201935113 | Lee-HanSeul(이한슬) | hanseul37@gachon.ac.kr  | Music Source  |
 | 201935125 | Jung-GyuWon(정규원) | kcc0520@gachon.ac.kr  | Sheet Recognition  |
-| 202135563 | Lee-EunSeo(이은서) | silverl@gachon.ac.kr | Music Recognition  |
+| 202135563 | Lee-EunSeo(이은서) | silverl@gachon.ac.kr | Music Source  |
 | 201935145 | Choi-Junbum(최준범) | gw06052@gachon.ac.kr | Data Classification |
 
 ## Technology stack
 
-- Node.js
-- Python
-- Pytorch
-- OpenCV
-- Basic Pitch
-- Mido
-- YOLOv5
-- Flutter
+### Languages
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+
+### Frameworks
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+
+### Deap Learning
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/yolo-00FFFF?style=for-the-badge&logo=yolo&logoColor=black">
 
 ## Using Open Source
 
-- Yolov5 ([https://github.com/ultralytics/yolov5](https://github.com/ultralytics/yolov5))
-- mido ([https://github.com/mido/mido](https://github.com/mido/mido))
-- basic-pitch ([https://github.com/spotify/basic-pitch](https://github.com/spotify/basic-pitch))
-- vextab ([https://github.com/0xfe/vextab] (https://github.com/0xfe/vextab))
+- Yolov5 (https://github.com/ultralytics/yolov5)
+- mido (https://github.com/mido/mido)
+- demucs (https://github.com/facebookresearch/demucs)
+- basic-pitch (https://github.com/spotify/basic-pitch)
+- vextab (https://github.com/0xfe/vextab)
 
 ## TABO Wiki
 - tabo
