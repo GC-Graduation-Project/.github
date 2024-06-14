@@ -41,8 +41,8 @@
 - vextab ([https://github.com/0xfe/vextab] (https://github.com/0xfe/vextab))
 
 ## TABO Wiki
-tabo
-logic
+- tabo
+- logic
 
 ## 설치
 
